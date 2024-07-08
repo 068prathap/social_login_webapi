@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iJTKHoZIXxSAQy1s7PgektvCI57x5ZGklOqePhc6ggw=",
+  "Source": "SocialLoginWebApi",
+  "BasePath": "_content/SocialLoginWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
